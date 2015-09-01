@@ -1,0 +1,61 @@
+
+@import url(https://fonts.googleapis.com/css?family=Oxygen);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+ 
+body {
+	background-color: rgb(0,0,90);
+	text-align: center;
+}
+#slogan {
+	color: rgb(207,207,198);
+	font-family: 'oxygen',sans-serif;
+	font-weight: 500;
+	font-style: italic;
+	
+}
+img {
+	
+}
+p {
+	font-style: normal;
+	font-family: 'Poiret One', cursive;
+	color: #29FF00;
+	font-weight: 600;
+	font-size: 1.5em;
+	margin :0.5em;
+	line-height: 1.5em;
+
+}
+
+.title {
+	color: #29FF00;
+	font-size: 5em;
+	font-weight: 800;
+	
+	font-family: 'oxygen',sans-serif;
+	margin:2px;
+	text-decoration: overline;
+}
+
+ul{
+    color: rgb(207,207,198);
+	font-size: 3em;
+	font-weight: 600;
+	font-style: italic;
+	list-style: none;
+	margin:0.17px;
+
+}
+.contact {
+	font-style: normal;
+	font-family: sans-serif;
+	color: ##29FF00;
+	font-size: 17px;
+}
+a {
+	color: red;
+}
+
+hr{
+	position: relative;
+}

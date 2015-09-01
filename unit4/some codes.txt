@@ -1,0 +1,6 @@
+* {
+margin: 0;
+padding: 0;	
+}  
+
+RESETS PADDING AND MARGIN ON BODY
